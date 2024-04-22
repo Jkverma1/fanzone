@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22.292" height="22.292" viewBox="0 0 22.292 22.292">
+  <g id="video-circle" transform="translate(-2 -2)">
+    <path id="Vector" d="M11.042,0A11.042,11.042,0,1,0,22.083,11.042,11.046,11.046,0,0,0,11.042,0Zm2.937,12.952-1.413.817-1.413.817c-1.822,1.049-3.312.188-3.312-1.91V9.408C7.84,7.3,9.33,6.448,11.152,7.5l1.413.817,1.413.817C15.8,10.18,15.8,11.9,13.979,12.952Z" transform="translate(2.208 2.208)" fill="#a60057"/>
+    <path id="Vector-2" data-name="Vector" d="M0,0H22V22H0Z" transform="translate(2 2)" fill="none" opacity="0"/>
+  </g>
+</svg>

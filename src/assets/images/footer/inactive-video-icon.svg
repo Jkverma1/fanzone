@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22.188" height="22.189" viewBox="0 0 22.188 22.189">
+  <g id="vuesax_linear_video-circle" data-name="vuesax/linear/video-circle" transform="translate(-299.899 -253.899)">
+    <g id="video-circle" transform="translate(300 254)">
+      <g id="Group_15423" data-name="Group 15423" transform="translate(0.799 0.799)">
+        <path id="Vector" d="M0,4.468V2.639C0,.28,1.668-.671,3.706.5l1.581.914,1.581.914c2.038,1.174,2.038,3.1,0,4.274l-1.581.914-1.581.914C1.668,9.607,0,8.643,0,6.3Z" transform="translate(6.488 5.725)" fill="none" stroke="#8a9099" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8"/>
+        <path id="Vector-2" data-name="Vector" d="M20.388,10.194A10.194,10.194,0,1,1,10.194,0,10.194,10.194,0,0,1,20.388,10.194Z" fill="none" stroke="#8a9099" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8"/>
+      </g>
+      <path id="Vector-3" data-name="Vector" d="M0,0H22V22H0Z" fill="none" opacity="0"/>
+    </g>
+  </g>
+</svg>

@@ -1,7 +1,7 @@
 version: "1.0"
 services:
   fanzone_fe:
-    build: ./fanzone_FE
+    build: ./
     container_name: fanzone_FE
     ports:
       - "3000:3000"

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22.955" height="22.955" viewBox="0 0 22.955 22.955">
+  <g id="vuesax_linear_cup" data-name="vuesax/linear/cup" transform="translate(-364.441 -381)">
+    <g id="cup">
+      <g id="Group_15422" data-name="Group 15422" transform="translate(0.288 0.847)">
+        <path id="Vector" d="M0,0V2.23" transform="translate(375.792 396.408)" fill="none" stroke="#8a9099" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        <path id="Vector-2" data-name="Vector" d="M0,3.185H10.617V2.123A2.13,2.13,0,0,0,8.494,0H2.123A2.13,2.13,0,0,0,0,2.123V3.185Z" transform="translate(370.483 399.062)" fill="none" stroke="#8a9099" stroke-width="1.5"/>
+        <path id="Vector-3" data-name="Vector" d="M0,0H12.74" transform="translate(369.423 402.248)" fill="none" stroke="#8a9099" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        <path id="Vector-4" data-name="Vector" d="M7.432,14.864A7.426,7.426,0,0,1,0,7.432V4.247A4.246,4.246,0,0,1,4.247,0h6.37a4.246,4.246,0,0,1,4.247,4.247V7.432A7.426,7.426,0,0,1,7.432,14.864Z" transform="translate(368.2 381.014)" fill="none" stroke="#8a9099" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        <path id="Vector-5" data-name="Vector" d="M3.642,7.751A5.159,5.159,0,0,1,1.593,6.476,5.663,5.663,0,0,1,0,2.654,2.628,2.628,0,0,1,2.654,0h.69a3.987,3.987,0,0,0-.319,1.593V4.778A7.482,7.482,0,0,0,3.642,7.751Z" transform="translate(365.058 383.507)" fill="none" stroke="#8a9099" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        <path id="Vector-6" data-name="Vector" d="M0,7.751A5.159,5.159,0,0,0,2.049,6.476,5.663,5.663,0,0,0,3.642,2.654,2.628,2.628,0,0,0,.987,0H.3A3.987,3.987,0,0,1,.616,1.593V4.778A7.482,7.482,0,0,1,0,7.751Z" transform="translate(382.565 383.507)" fill="none" stroke="#8a9099" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      </g>
+      <path id="Vector-7" data-name="Vector" d="M0,0H22.955V22.955H0Z" transform="translate(364.441 381)" fill="none" opacity="0"/>
+    </g>
+  </g>
+</svg>

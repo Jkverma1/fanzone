@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-shadow: none;
+  font-family: "Mulish";
+}
+.slick-dots li {
+  margin: 0 !important;
+  width: unset !important;
+}
+
+.BannerLogo {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.infoStepContainer .slick-dots {
+  text-align: left !important;
+  left: 32px;
+}
