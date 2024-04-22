@@ -1,0 +1,9 @@
+version: "1.0"
+services:
+  fanzone_fe:
+    build: ./fanzone_FE
+    container_name: fanzone_FE
+    ports:
+      - "3000:3000"
+    stdin_open: true
+    tty: true
